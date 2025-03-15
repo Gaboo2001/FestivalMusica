@@ -1,0 +1,27 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": "Aprendiendo SASS y NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaboo2001/FestivalMusica.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "Gulp"
+  ],
+  "author": "Gabriel Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaboo2001/FestivalMusica/issues"
+  },
+  "homepage": "https://github.com/Gaboo2001/FestivalMusica#readme",
+  "devDependencies": {
+    "sass": "^1.85.1"
+  }
+}
